@@ -1,5 +1,5 @@
 # Line-Graph
-Visualize data from a csv file in react. Checkout the full tutorial [https://claremburu.medium.com/how-to-visualize-data-from-a-csv-file-in-react-full-code-on-github-258897516be2] (here)
+Visualize data from a csv file in react. Checkout the full tutorial [here](https://claremburu.medium.com/how-to-visualize-data-from-a-csv-file-in-react-full-code-on-github-258897516be2)
 
 # What the program does
 1. We will create a textbox where we will paste our CSV data.<br/>
